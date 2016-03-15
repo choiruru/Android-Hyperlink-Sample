@@ -1,7 +1,7 @@
 # Group-Chat-Image-Combiner
 
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/choiruru/Group-Chat-Image-Combiner/master/device-2016-03-15-120304.png)
+![Screenshot](https://raw.githubusercontent.com/choiruru/Android-Hyperlink-Sample/master/device-2016-03-15-120304.png)
 
 ## Usage
 ``` java
