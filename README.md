@@ -1,4 +1,4 @@
-# Group-Chat-Image-Combiner
+# Android Hyperlink Sample
 
 ## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/choiruru/Android-Hyperlink-Sample/master/device-2016-03-15-120304.png)
